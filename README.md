@@ -1,4 +1,4 @@
-# Internship Task Portfolio
+# Internship Task 
 
 Welcome to my internship task repository for Growintern! Here you'll find the completed tasks assigned during my internship.
 
